@@ -45,7 +45,7 @@ $apps = @{
         @{Name="Python"; URL="https://www.python.org/downloads/"},
         @{Name="Node.js"; URL="https://nodejs.org/"}
     )
-    "Adrian's Tools" = @(
+    "Tools" = @(
         @{Name="MSI Afterburner"; URL="https://www.msi.com/Landing/afterburner/graphics-cards"},
         @{Name="NVIDIA App"; URL="https://www.nvidia.com/en-us/software/nvidia-app/"},
         @{Name="HWiNFO"; URL="https://www.hwinfo.com/download/"},
